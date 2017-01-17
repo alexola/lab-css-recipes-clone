@@ -1,0 +1,69 @@
+body{
+  font-family: "Open Sans";
+}
+
+.apple {
+  height: 476px;
+  width: 700px;
+  position:static;
+  padding-left: 250px;
+}
+h3 {
+  position: absolute;
+  top: 179px;
+  width: 100%;
+  left: 500px;
+  color: white;
+  font-size: 50px;
+  font-style: Open Sants;
+}
+h4 {
+  text-align: center;
+}
+.history {
+  text-align: center;
+border: 400px;
+margin-left: 67px;
+margin-right: 471px;
+width: 553px;
+}
+.time{
+height: 54px;
+width: 338px;
+position: static;
+padding-left: 425px;
+}
+
+hr{
+  width:780px;
+  margin-left: 214px;
+}
+
+.cook{
+  height: 56px;
+  width: 305px;
+  position: static;
+  padding-left: 425px;
+  padding-top: 20px
+}
+
+ .center {
+   text-align: center;
+   border: 80px;
+   margin-left: 292px;
+   margin-right: 330px;
+}
+
+p{
+  padding-left: 250px;
+}
+
+.recipie{
+  padding-left: 265px
+}
+.inS{
+  padding-left: 245px;
+border: 100px;
+padding-right: 210px;
+text-align: left;
+}

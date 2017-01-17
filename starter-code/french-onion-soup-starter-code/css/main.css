@@ -7,3 +7,54 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+.onion{
+  width: 900px;
+height: 500px;
+position: static;
+padding-left: 200px;
+}
+h3{
+position: absolute;
+top: 167px;
+left: 453px;
+color: white;
+font-size: 50px;
+}
+.intro{
+  text-align: center;
+  border: 363px none;
+  width: auto;
+  margin-left: 130px;
+  margin-right: 358px;
+
+}
+
+.timer{
+height: auto;
+width: 235px;
+position: : static;
+padding-left: 547px;
+}
+
+hr{
+  width:750px;
+}
+p{
+padding-left: 250px;
+}
+.ingred{
+  padding-left: 270px;
+
+}
+.info{
+  padding-left: 504px;
+width: 300px;
+padding-bottom: 10px;
+height:55px;
+}
+.instr{
+padding-left: 250px;
+border: 100px none;
+padding-right: 210px;
+text-align: left;
+}
